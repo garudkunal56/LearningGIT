@@ -1,5 +1,0 @@
-<script>
-
-//data login    
-
-</script>
